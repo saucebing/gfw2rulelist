@@ -1,0 +1,5 @@
+install shadowsocks, you will get a proxy
+install gfwlist2pac: sudo pip install gfwlist2pac
+./autopac.sh
+pbcopy ./rulelist.txt
+paste to switchyomega extension in google-chrome
